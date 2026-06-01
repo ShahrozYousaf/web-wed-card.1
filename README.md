@@ -3,7 +3,7 @@
 A beautiful and responsive Wedding Invitation Website built using HTML, CSS, and JavaScript. This project is designed to create a modern digital wedding invitation experience with elegant design, smooth user interaction, and mobile-friendly responsiveness.
 
 🌐 Live Demo:
-View Live Website:mary-suntna.netlify.app
+View Live Website: https://mary-suntna.netlify.app/
 
 ✨ Features
 💍 Elegant Wedding Invitation Design
